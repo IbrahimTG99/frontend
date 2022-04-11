@@ -227,6 +227,12 @@ form {
   padding: 5px 20px 20px 20px;
 }
 
+.bg-green {
+  color: #00d460 !important;
+  border-color: #00d460 !important;
+  border: 2px solid #00d460 !important;
+}
+
 /*---Media Queries --*/
 @media (max-width: 992px) {
 }
